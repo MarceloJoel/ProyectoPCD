@@ -19,6 +19,7 @@ Análisis exploratorio de datos (EDA) y aplicación interactiva con **Streamlit*
 proyecto/
 ├── car_data.csv          # Dataset principal (Kaggle · CarDekho)
 ├── proyectoX.py          # Aplicación Streamlit
+├── .streamlit.           # Configuración de Streamlit - tema.
 ├── carros_proyecto.ipynb # Pipeline EDA completo (Jupyter)
 └── README.md
 ```
