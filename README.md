@@ -6,7 +6,9 @@ Análisis exploratorio de datos (EDA) y aplicación interactiva con **Streamlit*
 
 | Nombre | Apellido |
 |---|---|
-
+| Kevin Esty | Carvallo Neciosup |
+| Anderson Josue | Delerna Infantes |
+| Josue | Mogollon Flores |
 | Marcelo | Rodriguez Cabrera |
 
 ---
@@ -93,3 +95,6 @@ El archivo `carros_proyecto.ipynb` documenta el proceso completo en 5 etapas:
 4. La **transmisión automática** genera una prima de precio sobre la manual.
 5. El mercado está dominado por **vendedores particulares** (Individual).
 6. Existen **outliers de alta gama** (Land Rover, Mercedes-Benz) que sesgan las distribuciones.
+
+##
+Proyecto Universitario - Creado con fines académicos y de investigación.
