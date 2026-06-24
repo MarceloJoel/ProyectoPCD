@@ -41,7 +41,11 @@ proyecto/
 Se requiere **Python 3.8+**. Instala las dependencias ejecutando:
 
 ```bash
-pip install streamlit pandas matplotlib seaborn
+python --versión
+python -m streamlit version
+python -m pip install streamlit --user
+python -m pip install matplotlib --user
+python -m pip install seaborn --user
 ```
 
 > En sistemas donde `pip` apunta a Python 2, usa `pip3` o `python -m pip`.
